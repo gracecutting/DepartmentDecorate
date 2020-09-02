@@ -1,1 +1,28 @@
-
+body#StudioArt {
+    background-color: aliceblue; 
+}
+body#Economics {
+    background-color: mintcream;
+}
+body#Politics {
+    background-color: mistyrose;
+}
+body#ComputerScience {
+    background-color: peachpuff;
+}
+body#Mathematics {
+    background-color: lightgoldenrodyellow;
+}
+body#landing {
+    background-color: lightgray;
+}
+h1 {
+    background-image: url("../../StudioArtBackgroundImage.jpg");
+}
+th {
+    font-size: 20;
+    color: darkblue
+}
+table, th, td {
+    border: 2px solid black;
+}

@@ -1,1 +1,29 @@
-
+body#StudioArt {
+    background-color: lavender; 
+}
+body#Economics {
+    background-color: lightblue;
+}
+body#Politics {
+    background-color: lavenderblush;
+}
+body#ComputerScience {
+    background-color: lemonchiffon;
+}
+body#Mathematics {
+    background-color: aliceblue;
+}
+body#landing {
+    background-color: linen;
+}
+h1 {
+    background-image: url("../../BackgroundImage2.jpg");
+    color: white;
+}
+th {
+    font-size: 20;
+    color: purple;
+}
+table, th, td {
+    border: 2px solid black;
+}
